@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Library/
+UserSettings/
+Flappy Bird 2d.sln
+
+* Assembly-CSharp.csproj
+
 # User-specific files
 *.rsuser
 *.suo
