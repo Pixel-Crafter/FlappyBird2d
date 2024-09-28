@@ -7,7 +7,6 @@ Library/
 UserSettings/
 Flappy Bird 2d.sln
 Assembly-CSharp.csproj*
-Temp/
 
 # User-specific files
 *.rsuser
